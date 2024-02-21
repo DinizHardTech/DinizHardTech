@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Pedro Diniz</h1>
-<h3 align="center">Promissor Cientista/Analista de dados🤓 Apaixonado por Tech.</h3>
+<h3 align="center">Promissor Analista/Engenheiro de dados🤓 Apaixonado por Tech.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL SERVER**
 
