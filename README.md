@@ -1,4 +1,4 @@
-## 👋 Olá!
+## 👋 Pedro Diniz
 Sou estudante de Análise de Dados, com foco em projetos práticos em Excel, SQL e Power BI.
 
 ### 🛠️ Habilidades
